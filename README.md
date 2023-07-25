@@ -6,5 +6,10 @@ Sample-Image
 ![wea2](https://github.com/Jayshri-Raman/Weather-App/assets/138697903/c31374b6-e713-4be6-a952-dcf489f7ed74)
 
 
+https://github.com/Jayshri-Raman/Weather-App/assets/138697903/cbc3e9bc-6222-4b5b-9fb7-23937bf4cd9f
+
+
+
+
 
 
