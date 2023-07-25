@@ -1,4 +1,7 @@
-# Weather-App
-This is an application that is used to measure the climate condition in different locations.This gives the information about Sky Condition , Temperature and Wind speed.
-I have developed this application by HTML , CSS and Javascript. 
-I have developed using api key in openweather website.
+![Screenshot (210)](https://github.com/Jayshri-Raman/Weather-App/assets/138697903/fce64708-d826-4a93-b21b-7b43858a3620)#Weather-App
+This application gives the information related to weather conditions of a specific place. Application has been built using HTML , CSS, Javascript  integrating openweather API .
+
+Sample-Image
+
+
+
